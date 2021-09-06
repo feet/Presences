@@ -1036,10 +1036,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/chrome@^0.0.144":
-  version "0.0.144"
-  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.144.tgz#7dd9188e355aa17e3ad397f50b5cd3ad12caf788"
-  integrity sha512-BgoiO7/KP9hRNrCR2Wq+aKWT5Dh9bTofuWaRtcqPcj8YKhZojQgb6sSdIqvds2C+eO63BwaR9KHVMYYgZdGGBg==
+"@types/chrome@^0.0.156":
+  version "0.0.156"
+  resolved "https://registry.yarnpkg.com/@types/chrome/-/chrome-0.0.156.tgz#1a6093ee5f4e7e1395144d20f780b8669ff77e15"
+  integrity sha512-tYb1Ouj8vG+MF1RrRBfT+VoKpXRGNJtAnfY9Q+00+eHsqCsDXRtbn+Z45NNhcI1ZoOE8MImKoQEEvnLxHrU87w==
   dependencies:
     "@types/filesystem" "*"
     "@types/har-format" "*"
